@@ -1,3 +1,3 @@
 ## First Blog Post
 
-Sample text
+## Sample text
