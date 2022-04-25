@@ -1,4 +1,4 @@
-# Blog Post # 3
+## Blog Post # 3
 
 If you didn't think math was hard enough... and I did... then try data science.
 
